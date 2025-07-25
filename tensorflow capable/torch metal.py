@@ -23,7 +23,7 @@ end = time.time()
 print(f"MPS time: {end - start:.4f} sec")
 
 # Example: Tensor operations
-x = torch.rand(3, 3, 3).to(device)
-y = torch.rand(3, 3, 3).to(device)
-z = x + y
-print(z)
+a = torch.rand(3, 3, 3).to(device)
+b = torch.rand(3, 3, 3).to(device)
+c = a + b
+print(c)
