@@ -1,9 +1,7 @@
 import torch
 import numpy as np
 
-# Check device
-device = torch.device("mps" if torch.backends.mps.is_available() else "cpu")
-print(f"Using device: {device}")
+device = torch.device("mps")
 
 # Create a tensor from a Python list
 data_list = [[1, 2], [3, 4]]
@@ -40,6 +38,11 @@ print(ones_tensor)
 print(f"\nEmpty Tensor (shape {shape}):")
 print(empty_tensor)
 
+# Create a tensor of ones with integer type
+ones_int_tensor = torch.ones(shape, dtype=torch.int32)
+print(f"\nOnes Tensor (dtype=torch.int32):")
+print(ones_int_tensor)
+
 # Create tensors with random values
 rand_tensor = torch.rand(shape) # Uniform distribution [0, 1)
 randn_tensor = torch.randn(shape) # Standard normal distribution
@@ -66,30 +69,3 @@ print(f"Shape: {zeros_like_base.shape}, dtype: {zeros_like_base.dtype}")
 print("\nRandom tensor like base:")
 print(rand_like_base)
 print(f"Shape: {rand_like_base.shape}, dtype: {rand_like_base.dtype}")
-
-# Create two tensors
-a = torch.tensor([[1., 2.], [3., 4.]])
-b = torch.tensor([[5., 6.], [7., 8.]])
-
-# Addition
-sum_tensor = a + b
-print("Addition (a + b):\n", sum_tensor)
-print("Addition (torch.add(a, b)):\n", torch.add(a, b))
-
-# Subtraction
-diff_tensor = a - b
-print("\nSubtraction (a - b):\n", diff_tensor)
-
-# Element-wise Multiplication
-mul_tensor = a * b
-print("\nElement-wise Multiplication (a * b):\n", mul_tensor)
-print("Element-wise Multiplication (torch.mul(a, b)):\n", torch.mul(a, b))
-
-# Division
-div_tensor = a / b
-print("\nDivision (a / b):\n", div_tensor)
-
-# Exponentiation
-pow_tensor = a ** 2
-print("\nExponentiation (a ** 2):\n", pow_tensor)
-print("Exponentiation (torch.pow(a, 2)):\n", torch.pow(a, 2))
