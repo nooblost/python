@@ -70,3 +70,5 @@ is_eligible_discount = (age < 25 and is_student) or has_coupon
 # -> False or True
 # -> True
 print(f"Eligible for discount (different criteria): {is_eligible_discount}") # Output: True
+
+# Order of operations: not > and > or
