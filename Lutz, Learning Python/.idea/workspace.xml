@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4487e88-c832-43e1-be6b-030481c91691" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../apxml python course/4.7 choosing the right data structure.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 2/2-10_favorite_number.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 2/2-1_simple_message.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 2/2-2_simple_messages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 2/2-3_personal_message.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 2/2-4_name_cases.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 2/2-5_famous_quote.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 2/2-6_famous_quote_message.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 2/2-7_stripping_names.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 2/2-8_file_extension_removal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 2/2-9_number_eight.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 3/3-0_bicycles.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 3/3-1_names.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 3/3-2_greetings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 3/3-3_your_own_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 3/3-4_guest_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 3/3-5_changing_guest_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 3/3-6_more_guests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 3/3-7_shrinking_guest_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 3/3-8_seeing_the_world.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 3/3-9_dinner_guests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 4/4-10_slices.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 4/4-11_my_pizzas_your_pizzas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 4/4-12_more_loops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 4/4-13_buffet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 4/4-1_pizzas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 4/4-2_animals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 4/4-3_counting_to_twenty.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 4/4-4_one_million.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 4/4-5_summing_a_million.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 4/4-6_odd_numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 4/4-7_threes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 4/4-8_cubes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 4/4-9_cube_comprehension.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 5/5-10_checking_usernames.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 5/5-11_ordinal_numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 5/5-1_conditional_tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 5/5-3_alien_colors_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 5/5-4_alien_colors_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 5/5-5_alien_colors_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 5/5-6_stages_of_life.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 5/5-7_favorite_fruits.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 5/5-8_hello_admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 5/5-9_no_users.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 6/6-1_person.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 6/6-2_favorite_numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 6/6-3_glossary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 6/aliens.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 6/favorite_languages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter 6/user.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nooblost&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nooblost/python.git&quot;,
+    &quot;accountId&quot;: &quot;b35d4d8c-14ce-41ad-9d0a-d31c8893f75d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="33SGlcpnLm1JPqcw3xSWYsL7d1B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/nooblost/coding/python/Lutz, Learning Python&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Lutz, Learning Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-PY-252.26199.168" />
+        <option value="bundled-python-sdk-b3d66beaba9a-c6efb3732140-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26199.168" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4487e88-c832-43e1-be6b-030481c91691" name="Changes" comment="" />
+      <created>1759303211519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759303211519</updated>
+      <workItem from="1759303212613" duration="18000" />
+      <workItem from="1759303341447" duration="2000" />
+      <workItem from="1759303607725" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
