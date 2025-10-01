@@ -23,3 +23,23 @@ print(f"Intersection (&): {common_roles}")
 common_roles_method = programmers.intersection(data_scientists)
 print(f"Intersection (method): {common_roles_method}\n")
 
+# Elements in programmers but NOT in data_scientists
+only_programmers = programmers - data_scientists
+print(f"Difference (programmers - data_scientists): {only_programmers}")
+
+# Using the difference() method
+only_programmers_method = programmers.difference(data_scientists)
+print(f"Difference (method): {only_programmers_method}")
+
+# Elements in data_scientists but NOT in programmers
+only_data_scientists = data_scientists - programmers
+print(f"Difference (data_scientists - programmers): {only_data_scientists}\n")
+
+# Using the ^ operator
+exclusive_roles = programmers ^ data_scientists
+print(f"Symmetric Difference (^): {exclusive_roles}")
+
+# Using the symmetric_difference() method
+exclusive_roles_method = programmers.symmetric_difference(data_scientists)
+print(f"Symmetric Difference (method): {exclusive_roles_method}\n")
+
