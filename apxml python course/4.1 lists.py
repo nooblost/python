@@ -89,3 +89,9 @@ print(f"Numbers before clear: {numbers}")
 numbers.clear()
 print(f"Numbers after clear: {numbers}")
 
+# iterate list and show index of contents
+
+fruits = ["apple", "banana", "cherry"]
+for index, fruit in enumerate(fruits):
+    print(f"Index: {index}, Fruit: {fruit}")
+
