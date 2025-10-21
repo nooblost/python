@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Pipenv (machine learning)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Pipenv (machine learning)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="uv (machine learning)" project-jdk-type="Python SDK" />
 </project>

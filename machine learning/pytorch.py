@@ -11,4 +11,3 @@ x = torch.rand(4, 4).to(device)
 y = torch.rand(4, 4).to(device)
 z = x + y
 print(z)
-
