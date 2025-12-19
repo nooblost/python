@@ -43,3 +43,15 @@ except FileExistsError:
 
 # Binary mode 'b': file should be handled as bytes.
 # Use with non-text files like audio, video, executables etc.
+
+# Example: Writing raw bytes to a file
+data_to_write = b'\x00\x10\xFF\xEE' # A bytes literal
+with open('binary_data.bin', 'wb') as f:
+    f.write(data_to_write)
+
+# Example: Reading raw bytes from a file
+with open('binary_data.bin', 'rb') as f:
+    read_data = f.read()
+    print("Read binary data:", read_data)
+
+# Update mode '+': allows both reading and writing
